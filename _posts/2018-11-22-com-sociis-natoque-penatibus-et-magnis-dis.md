@@ -12,9 +12,9 @@ twitter_text: My tech Blog.
 introduction: ready to Convert from Korean to English 
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">abc</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Based on <a href="https://github.com/brwnsugr">My github</a>, I created it. The things that I'm going to post is about Solid CS knowledge, Practical SW Development, and my Opinions.   
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> I have to be familiar with this interface and English as well.
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
