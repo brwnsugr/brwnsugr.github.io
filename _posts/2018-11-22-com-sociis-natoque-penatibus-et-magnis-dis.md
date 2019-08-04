@@ -2,17 +2,17 @@
 layout: post
 title: "My Tech Blog"
 date: 2019-08-03
-image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1501268554/sunrise_ttb9nk.jpg'
+image: 'https://cdn.theatlantic.com/assets/media/img/mt/2018/11/STScI_H_p1851a_d1280x720/lead_720_405.png?mod=1543602613'
 description: I Just Created my New Tech Blog based On github.io
 category: 'opinion'
 tags:
 - html
 - tutorial
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+twitter_text: My tech Blog.
+introduction: ready to Convert from Korean to English 
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Cas sociis natoque penatibus et magnis <a href="#">abc</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
@@ -55,6 +55,21 @@ var adder = new Function("a", "b", "return a + b");
 adder(2, 6);
 // > 8
 ```
+
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+    int a, b, c;
+    cin >> a >> b >> c;
+
+    cout << (a+b)%c << '\n';
+    cout << (a+b)%c << '\n';
+    cout << (a*b)%c << '\n';
+    cout << (a*b)%c << '\n';
+
+    return 0;
+}
 
 Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
 
