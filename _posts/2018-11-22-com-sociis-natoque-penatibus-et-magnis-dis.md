@@ -57,6 +57,7 @@ adder(2, 6);
 ```
 
 ```cpp
+//modulo operation 
 #include <iostream>
 using namespace std;
 int main() {
